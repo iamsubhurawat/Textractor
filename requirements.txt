@@ -5,4 +5,4 @@ pandas
 numpy
 matplotlib
 opencv-contrib-python
-libtk8.6
+opencv-python-headless
